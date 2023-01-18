@@ -10,5 +10,6 @@ comment: false
 mathjax: false
 ---
 
-ruby 爱好者 || emacs 爱好者 || 业余码农
+rubyist || emacser
+
 
